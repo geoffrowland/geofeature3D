@@ -115,19 +115,19 @@
         "icon": "oneTwoThree",
         "trainerItems": [
           {
-            "title": "translate#stepbystepguide.gettingstarted.title",
+            "title": "Getting started with the map",
             "footnote": "translate#stepbystepguide.gettingstarted.footnote",
             "steps": [
               {
-                "title": "translate#stepbystepguide.gettingstarted.step1.title",
+                "title": "Search for a location to find an area of interest",
                 "markdownDescription": "translate#stepbystepguide.gettingstarted.step1.markdownDescription"
               },
               {
-                "title": "translate#stepbystepguide.gettingstarted.step2.title",
+                "title": "Use \"Explore map data\" to view data catalogue",
                 "markdownDescription": "translate#stepbystepguide.gettingstarted.step2.markdownDescription"
               },
               {
-                "title": "translate#stepbystepguide.gettingstarted.step3.title",
+                "title": "Search for data or browse catalogue",
                 "markdownDescription": "translate#stepbystepguide.gettingstarted.step3.markdownDescription"
               },
               {
