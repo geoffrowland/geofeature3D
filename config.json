@@ -47,9 +47,8 @@
     //     //devHostRegex: "\\b(staging|preview|test|dev)\\.",
     //     enableOnLocalhost: true // If false, don't show this when running on localhost
     // },
-
-    /*
-        developerAttribution: {
+   /*
+   developerAttribution: {
             text: "Your organisation",
             link: "http://www.example.com"
         },*/
@@ -107,7 +106,6 @@
         "videoUrl": "https://www.youtube-nocookie.com/embed/FjSxaviSLhc",
         "placeholderImage": "https://img.youtube.com/vi/FjSxaviSLhc/maxresdefault.jpg"
       },
-      /*
       {
         "title": "Step by step guide",
         "itemName": "stepbystepguide",
@@ -148,7 +146,6 @@
               }
             ]
           }
-          */
           // -- Uncomment to enable the following trainer guides --
           // {
           //   "title": "stepbystepguide.satelliteimagery.title",
