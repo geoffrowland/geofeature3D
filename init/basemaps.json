@@ -318,7 +318,7 @@
           ]
         },
         {
-          "url": "../images",
+          "url": "images/",
           "type": "open-street-map",
           "bkgd": true,
           "fileExtension": "png",
