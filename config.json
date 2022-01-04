@@ -120,15 +120,15 @@
             "steps": [
               {
                 "title": "Search for a location to find an area of interest",
-                "markdownDescription": "translate#stepbystepguide.gettingstarted.step1.markdownDescription"
+                "markdownDescription": "The search is at the top of the workbench on the left."
               },
               {
                 "title": "Use \"Explore map data\" to view data catalogue",
-                "markdownDescription": "translate#stepbystepguide.gettingstarted.step2.markdownDescription"
+                "markdownDescription": "You can view the catalogue at any time"
               },
               {
                 "title": "Search for data or browse catalogue",
-                "markdownDescription": "translate#stepbystepguide.gettingstarted.step3.markdownDescription"
+                "markdownDescription": "Find a dataset of interest"
               },
               {
                 "title": "translate#stepbystepguide.gettingstarted.step4.title"
