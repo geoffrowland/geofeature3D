@@ -14,7 +14,7 @@
     "googleAnalyticsOptions": null,
     "cesiumIonAccessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI3ODJiNTI2NC0yNDUzLTRlZWMtOWQ3OS00NDhkZWQ5ZjBjYTYiLCJpZCI6NTgsImlhdCI6MTQ4NzYyNjM0N30.w1o6-XfyCqrGJtj8X4ci4z8zvtFxETG562RORr35O_s",
     "useCesiunIonTerrain": false,
-    "cesiumTerrainAssetId": 761372,
+    "cesiumTerrainAssetId": 761389,
     "bingMapsKey": "AohFvM_FD-p0478UuVC3ErCaoLzkJH_ftz_gGnSB9iUW_15xRgnZEf4cVkptGa7G",
     "hideTerriaLogo": false,
     "tabbedCatalog": true,
