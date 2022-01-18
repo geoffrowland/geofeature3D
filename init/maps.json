@@ -111,6 +111,34 @@
             }
           ]
         },
+        {
+          "url": "https://mapseries-tilesets.s3.amazonaws.com/25_inch/somerset1",
+          "type": "open-street-map",
+          "tms": false,
+          "fileExtension": "png",
+          "dataCustodian": "OSM",
+          "name": "Somerset OS 1880",
+          "forceProxy": true,
+          "opacity": 0.5,
+          "rectangle": {
+			  "west": -3.83818409,
+			  "south": 50.82119720,
+			  "east": -2.21205693,
+			  "north": 51.51807409
+		  },
+          "isOpenInWorkbench": false,
+          "tileErrorHandlingOptions": {
+			  "treat403AsError": false,
+			  "treat404AsError": false,
+			  "ignoreUnknownTileErrors": true
+		  },
+		  "info": [
+            {
+              "name": "Licence",
+              "content": "NLS"
+            }
+          ]
+        },
      {
           "name": "Ordnance Survey Bing Maps",
           "type": "bing-maps",
