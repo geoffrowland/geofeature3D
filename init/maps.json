@@ -89,7 +89,7 @@
           "tms": false,
           "fileExtension": "png",
           "dataCustodian": "OSM",
-          "name": "Somerset OS 1900",
+          "name": "Somerset OS 1901",
           "forceProxy": true,
           "opacity": 0.5,
           "rectangle": {
@@ -117,7 +117,7 @@
           "tms": false,
           "fileExtension": "png",
           "dataCustodian": "OSM",
-          "name": "Somerset OS 1880",
+          "name": "Somerset OS 1886",
           "forceProxy": true,
           "opacity": 0.5,
           "rectangle": {
