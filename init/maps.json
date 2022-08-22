@@ -51,7 +51,7 @@
 		  "info": [
             {
               "name": "Licence",
-              "content": "Historic OS maps © <a target = "_blank" href="https://maps.nls.uk/" title="National Library of Scotland">NLS</a>"
+              "content": 'Historic OS maps © <a target = "_blank" href="https://maps.nls.uk/" title="National Library of Scotland">NLS</a>'
             }
           ]
         },
@@ -79,7 +79,7 @@
 		  "info": [
             {
               "name": "Licence",
-              "content": "Historic OS maps © <a target = "_blank" href="https://maps.nls.uk/" title="National Library of Scotland">NLS</a>"
+              "content": 'Historic OS maps © <a target = "_blank" href="https://maps.nls.uk/" title="National Library of Scotland">NLS</a>'
             }
           ]
         },
@@ -107,7 +107,7 @@
 		  "info": [
             {
               "name": "Licence",
-              "content": "Historic OS maps © <a target = "_blank" href="https://maps.nls.uk/" title="National Library of Scotland">NLS</a>"
+              "content": 'Historic OS maps © <a target = "_blank" href="https://maps.nls.uk/" title="National Library of Scotland">NLS</a>'
             }
           ]
         },
@@ -135,7 +135,7 @@
 		  "info": [
             {
               "name": "Licence",
-              "content": "Historic OS maps © <a target = "_blank" href="https://maps.nls.uk/" title="National Library of Scotland">NLS</a>"
+              "content": 'Historic OS maps © <a target = "_blank" href="https://maps.nls.uk/" title="National Library of Scotland">NLS</a>'
             }
           ]
         },
@@ -163,7 +163,7 @@
 		  "info": [
             {
               "name": "Licence",
-              "content": "Historic OS maps © <a target = "_blank" href="https://maps.nls.uk/" title="National Library of Scotland">NLS</a>"
+              "content": 'Historic OS maps © <a target = "_blank" href="https://maps.nls.uk/" title="National Library of Scotland">NLS</a>'
             }
           ]
         },
