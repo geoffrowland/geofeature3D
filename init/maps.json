@@ -51,7 +51,7 @@
 		  "info": [
             {
               "name": "Licence",
-              "content": "NLS"
+              "content": "Historic OS maps © <a target = "_blank" href="https://maps.nls.uk/" title="National Library of Scotland">NLS</a>"
             }
           ]
         },
@@ -79,7 +79,7 @@
 		  "info": [
             {
               "name": "Licence",
-              "content": "NLS"
+              "content": "Historic OS maps © <a target = "_blank" href="https://maps.nls.uk/" title="National Library of Scotland">NLS</a>"
             }
           ]
         },
@@ -107,7 +107,7 @@
 		  "info": [
             {
               "name": "Licence",
-              "content": "NLS"
+              "content": "Historic OS maps © <a target = "_blank" href="https://maps.nls.uk/" title="National Library of Scotland">NLS</a>"
             }
           ]
         },
@@ -135,7 +135,35 @@
 		  "info": [
             {
               "name": "Licence",
-              "content": "NLS"
+              "content": "Historic OS maps © <a target = "_blank" href="https://maps.nls.uk/" title="National Library of Scotland">NLS</a>"
+            }
+          ]
+        },
+	{
+          "url": "https://mapseries-tilesets.s3.amazonaws.com/os/britain10knatgrid",
+          "type": "open-street-map",
+          "tms": false,
+          "fileExtension": "png",
+          "dataCustodian": "OSM",
+          "name": "10k",
+          "forceProxy": true,
+          "opacity": 0.5,
+          "rectangle": {
+			  "west": -6.84831493,
+			  "south": 49.84594174,
+			  "east": 1.78071283,
+			  "north": 58.7099994
+		  },
+          "isOpenInWorkbench": false,
+          "tileErrorHandlingOptions": {
+			  "treat403AsError": false,
+			  "treat404AsError": false,
+			  "ignoreUnknownTileErrors": true
+		  },
+		  "info": [
+            {
+              "name": "Licence",
+              "content": "Historic OS maps © <a target = "_blank" href="https://maps.nls.uk/" title="National Library of Scotland">NLS</a>"
             }
           ]
         },
