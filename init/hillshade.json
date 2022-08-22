@@ -17,13 +17,6 @@
           "forceProxy": true,
           "opacity": 1.0,
           "isOpenInWorkbench": false,
-          "rectangle": {
-			  "west": -10.722656,
-			  "south": 49.84,
-			  "east": 2.2,
-			  "north": 60.930432
-		  },
-		  "clipToRectangle": true,
           "tileErrorHandlingOptions": {
 			  "treat403AsError": false,
 			  "treat404AsError": false,
