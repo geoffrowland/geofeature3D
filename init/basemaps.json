@@ -54,12 +54,12 @@
 					 "type": "composite",
 					 "members": [
        {
-          "url": "https://geoffrowland.github.io/Hillshade-1m-Cornwall",
+          "url": "https://geoffrowland.github.io/Hillshade-1m-Cornwall-West",
           "type": "open-street-map",
           "tms": true,
           "fileExtension": "png",
           "dataCustodian": "Geoff Rowland",
-          "name": "Hillshade 1m Cornwall",
+          "name": "Hillshade 1m Cornwall West",
           "maximumLevel": 15,
           "forceProxy": true,
           "isOpenInWorkbench": false,
@@ -82,13 +82,42 @@
             }
           ]
         },
-       {
-          "url": "https://geoffrowland.github.io/Hillshade-1m-Devon",
+	       {
+          "url": "https://geoffrowland.github.io/Hillshade-1m-Cornwall-East",
           "type": "open-street-map",
           "tms": true,
           "fileExtension": "png",
           "dataCustodian": "Geoff Rowland",
-          "name": "Hillshade 1m Devon",
+          "name": "Hillshade 1m Cornwall East",
+          "maximumLevel": 15,
+          "forceProxy": true,
+          "isOpenInWorkbench": false,
+          "opacity": 1.0,
+          "rectangle": {
+			  "west": -6.459961,
+			  "south": 49.859235,
+			  "east": -4.460499,
+			  "north": 50.772076
+		  },
+          "tileErrorHandlingOptions": {
+			  "treat403AsError": false,
+			  "treat404AsError": false,
+			  "ignoreUnknownTileErrors": true
+		  },
+          "info": [
+            {
+              "name": "Licence",
+              "content": "[Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)"
+            }
+          ]
+        },					 
+       {
+          "url": "https://geoffrowland.github.io/Hillshade-1m-Devon-West",
+          "type": "open-street-map",
+          "tms": true,
+          "fileExtension": "png",
+          "dataCustodian": "Geoff Rowland",
+          "name": "Hillshade 1m Devon West",
           "maximumLevel": 15,
           "forceProxy": true,
           "isOpenInWorkbench": false,
@@ -111,6 +140,35 @@
             }
           ]
         },
+       {
+          "url": "https://geoffrowland.github.io/Hillshade-1m-Devon-East",
+          "type": "open-street-map",
+          "tms": true,
+          "fileExtension": "png",
+          "dataCustodian": "Geoff Rowland",
+          "name": "Hillshade 1m Devon East",
+          "maximumLevel": 15,
+          "forceProxy": true,
+          "isOpenInWorkbench": false,
+          "opacity": 1.0,
+          "rectangle": {
+			  "west": -4.702148,
+			  "south": 50.176898,
+			  "east": -3.515625,
+			  "north": 51.261915
+		  },
+          "tileErrorHandlingOptions": {
+			  "treat403AsError": false,
+			  "treat404AsError": false,
+			  "ignoreUnknownTileErrors": true
+		  },
+          "info": [
+            {
+              "name": "Licence",
+              "content": "[Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)"
+            }
+          ]
+        },						 
         {
           "url": "https://geoffrowland.github.io/Hillshade-1m-Devon-Dorset-Somerset",
           "type": "open-street-map",
