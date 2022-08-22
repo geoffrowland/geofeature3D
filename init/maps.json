@@ -32,7 +32,7 @@
           "type": "open-street-map",
           "tms": false,
           "fileExtension": "png",
-          "dataCustodian": "OSM",
+          "dataCustodian": "NLS",
           "name": "Devon OS 1900",
           "forceProxy": true,
           "opacity": 0.5,
@@ -51,7 +51,7 @@
 		  "info": [
             {
               "name": "Licence",
-              "content": 'Historic OS maps © <a target = "_blank" href="https://maps.nls.uk/" title="National Library of Scotland">NLS</a>'
+              "content": "Historic OS maps © [NLS](https://maps.nls.uk/" title="National Library of Scotland"
             }
           ]
         },
@@ -60,7 +60,7 @@
           "type": "open-street-map",
           "tms": false,
           "fileExtension": "png",
-          "dataCustodian": "OSM",
+          "dataCustodian": "NLS",
           "name": "Dorset OS 1900",
           "forceProxy": true,
           "opacity": 0.5,
@@ -79,7 +79,7 @@
 		  "info": [
             {
               "name": "Licence",
-              "content": 'Historic OS maps © <a target = "_blank" href="https://maps.nls.uk/" title="National Library of Scotland">NLS</a>'
+              "content": "NLS"
             }
           ]
         },
@@ -88,7 +88,7 @@
           "type": "open-street-map",
           "tms": false,
           "fileExtension": "png",
-          "dataCustodian": "OSM",
+          "dataCustodian": "NLS",
           "name": "Somerset OS 1901",
           "forceProxy": true,
           "opacity": 0.5,
@@ -107,7 +107,7 @@
 		  "info": [
             {
               "name": "Licence",
-              "content": 'Historic OS maps © <a target = "_blank" href="https://maps.nls.uk/" title="National Library of Scotland">NLS</a>'
+              "content": "NLS"
             }
           ]
         },
@@ -116,7 +116,7 @@
           "type": "open-street-map",
           "tms": false,
           "fileExtension": "png",
-          "dataCustodian": "OSM",
+          "dataCustodian": "NLS",
           "name": "Somerset OS 1886",
           "forceProxy": true,
           "opacity": 0.5,
@@ -135,7 +135,7 @@
 		  "info": [
             {
               "name": "Licence",
-              "content": 'Historic OS maps © <a target = "_blank" href="https://maps.nls.uk/" title="National Library of Scotland">NLS</a>'
+              "content": "NLS"
             }
           ]
         },
@@ -144,7 +144,7 @@
           "type": "open-street-map",
           "tms": false,
           "fileExtension": "png",
-          "dataCustodian": "OSM",
+          "dataCustodian": "NLS",
           "name": "10k",
           "forceProxy": true,
           "opacity": 0.5,
@@ -163,7 +163,7 @@
 		  "info": [
             {
               "name": "Licence",
-              "content": 'Historic OS maps © <a target = "_blank" href="https://maps.nls.uk/" title="National Library of Scotland">NLS</a>'
+              "content": "NLS"
             }
           ]
         },
