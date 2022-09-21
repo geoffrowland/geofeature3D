@@ -278,9 +278,19 @@
     },
     {
       "type": "wms-group",
-      "name": "Mineral resources",
+      "name": "GeoIndes: Mineral resources",
       "url": "https://map.bgs.ac.uk/arcgis/services/GeoIndex_Onshore/minerals_wms/MapServer/WmsServer"
-    }    
+    },
+    {
+      "type": "wms-group",
+      "name": "GeoIndex: Boreholes",
+      "url": "https://map.bgs.ac.uk/arcgis/services/GeoIndex_Onshore/boreholes/MapServer/WmsServer"	   
+    },
+    {
+      "type": "wms-group",
+      "name": "GeoIndex: Hazards",
+      "url": "https://map.bgs.ac.uk/arcgis/services/GeoIndex_Onshore/hazards/MapServer/WmsServer"	   
+    }      
    ]
   }
  ]
